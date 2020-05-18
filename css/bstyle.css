@@ -1,4 +1,7 @@
 .main-home {
-  background: url('../images/home-bg.jpeg') no-repeat;
   height: 60vh;
+}
+
+#home .btn {
+    display: none;
 }
