@@ -16,3 +16,7 @@
     font-style: italic;
     padding: 70px 0 0;
 }
+
+.painting-1-image {
+  background: url('../images/painting-1-single-post.jpg') no-repeat;
+}
